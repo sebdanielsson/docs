@@ -8,5 +8,6 @@ export default {
 				ignoreAtRules: ["tailwind"],
 			},
 		],
+		'color-hex-length': null,
 	},
 };
